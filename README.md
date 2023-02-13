@@ -1,9 +1,12 @@
-# How to execute the graphic.h program in vs code
-
-Download the compiler (Because graphic.h library need a 32 bit compiler) - https://jmeubank.github.io/tdm-gcc/
+[![Author - Mandeep28](https://img.shields.io/badge/Author%20---%20Mandeep28-brightgreen)](https://opensource.org/licenses/)
 
 
-Download the graphic.h files - https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view
+## Setting up graphics library (graphics.h) in Visual Studio Code (c++)
+
+Download the compiler (Because graphic.h library need a 32 bit compiler) - [click here](https://jmeubank.github.io/tdm-gcc/)
+
+
+Download the graphic.h files -[click here](https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view)
 
 Open vs code , go to command palette (ctrl + shift + P), then go to C/C++ edit ui config 
 Add compiler argument 
