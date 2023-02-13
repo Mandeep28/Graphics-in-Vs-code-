@@ -1,4 +1,4 @@
-# Graphics-in-Vs-code-
+# How to execute the graphic.h program in vs code
 
 Download the compiler (Because graphic.h library need a 32 bit compiler) - https://jmeubank.github.io/tdm-gcc/
 
