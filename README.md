@@ -72,12 +72,4 @@ Then run the code - Output will be look like this 👇👇
 
 <img width="959" alt="Screenshot_20230213_114103" src="https://user-images.githubusercontent.com/95164601/218538691-0d4f8de3-6aaf-4ec0-a1e1-352e197cbd3b.png">
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mandeep2002/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mandeep%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mandeep_singh.28/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mandeep_singh.28-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto: mandeepsingh13524@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mandeepsingh13524@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [Mandeep28](https://github.com/Mandeep28)
